@@ -1,0 +1,68 @@
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.custom-logo {
+  height: 50px;  
+}
+
+.instagram-icon {
+  height: 60px;
+  padding: 10px 25px 10px 15px;
+}
+
+.wpp-icon {
+  height: 60px;
+  padding: 10px 25px 10px 15px;
+}
+
+
+.linkedin-icon {
+  height: 60px;
+  padding: 10px 25px 10px 15px;
+}
+
+.lead {
+  position: fixed;
+}
+
+.navibar{
+  background-color: rgb(136, 183, 167);
+}
+
+.nav-link {
+  color: antiquewhite;
+  font-size: 20px;
+}
+
+.nav-item {
+  margin: 0px 2px;
+}
+
+.about-section {
+  background-color: rgb(236, 222, 214);
+}
+
+.price-section {
+  background-color: rgb(55, 55, 227);
+}
+
+.ohs-img {
+  width: 650px; 
+  padding-left: 80px;
+}
+
+.title-resource {
+  color: blue;
+}
+
+.footage-social {
+  background-color: skyblue;
+}
+
